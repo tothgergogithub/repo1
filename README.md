@@ -3,3 +3,4 @@
 # localis repo
 
 okpio
+lokal1
